@@ -8,3 +8,4 @@ http://forums.animesuki.com/archive/index.php/t-1335.html
 http://www.perlmonks.org/?node_id=659150
 
 http://p.outlyer.net/vcs/
+http://openwritings.net/content/public/debian/mplayer
